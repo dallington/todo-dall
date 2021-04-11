@@ -4,9 +4,9 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import "./index.css";
 // import App from "./App";
-import Home from "./containers/Home";
-import Projects from "./containers/Projects/index";
-import Project from "./containers/Projects/single";
+import Home from "./Containers/Home";
+import Projects from "./Containers/Projects/index";
+import Project from "./Containers/Projects/single";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
